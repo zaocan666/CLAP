@@ -12,7 +12,7 @@ the implementation of CLAP.
 * utils: needed function for the implementation.
 
 ## requirements
-the needed libraries are in requirements.txt
+the needed libraries are in requirements.txt.
 
 ## dataset preparation:
 The preparation of the PolyMNIST, MNIST-SVHN-TEXT, CelebA datasets follows https://github.com/thomassutter/MoPoE.
